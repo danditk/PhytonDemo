@@ -1,0 +1,39 @@
+"""
+This is a multi-line comment with docstrings
+
+print("Hello world")
+print("Hello universe")
+print("Hello everyone")
+"""
+
+"""
+Plan lekcji
+
+* PyCharm IDE
+* Interpreter Phytona - bezkompilacyjnie
+* Podstawy
+    - Interpratacja w konsoli przykłady dodawanie i tekst
+    - Średniki ; - userfreandly
+    - L1 - Nowy plik main.py - phyton file
+        * Run plik działania liczbowe
+        * Podpowiedzi interpretera [print()]
+        * Działania na liczbach +-*/%
+        * Print teksty i liczby *
+        * Komentarze # ; '3x"'
+        * Zmienna 1 2 operator przypisania tekst print
+        * Pobieranie zmienną imput operator konkatenacji +
+    - L2 - Rozwinięcie
+        * Kolejność działań + * ()
+        * Typy zmienne - Float - zmiennoprzecinkowa
+        * Dzielenie konwersja do int //
+        * Mnożenie i potęgowanie **
+        * Przypisanie o wartość =+x ; += (inkrementacja i dekrementacja w innych programach)
+        * Konwersja typów - automatycznie int; float x = input("tekst" int() + int()) Suma bez konwersji - Konkatenacja
+        * Konwersja na str()
+        * CTRL + Shift
+        * del
+        * bull - true false ==
+
+"""
+
+print("Hello campers")
