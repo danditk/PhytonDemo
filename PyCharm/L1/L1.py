@@ -17,6 +17,7 @@ a = input("Podaj liczbę 1 ")
 b = input("Podaj liczbę 1 ")
 
 print(int(a) == int(b)) / true - false - bool
+Float()
 """
 
 print(a + b)

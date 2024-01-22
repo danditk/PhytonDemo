@@ -37,11 +37,28 @@ Plan lekcji
         * Konwersja na str()
         * CTRL + Shift
         * del
-        * bull - true false ==
-        *
 
-    - L3 - Pierwsze taski
-        *
+    - L2.Ćwiczenia - Pierwsze taski
+        * Napisz program, który pobierze od użytkownika jego imię, nazwisko i wiek oraz poproś go o podanie dwóch liczb.
+          2 liczby będą obliczane, a dodatkowo na końcu będzie wyświetlone słowo dziękuję tyle razy ile wartość liczby 2.
+
+        * budowanie konkatenacji sktóconej na stringach
+          print(f'Cześć {zmienna_imie}!}
+          print(f'Mam {zmienna_wiek} lata.}
+
+        * Zadanie dodatkowe, przerobienie pliku na sktóconą wersję
+
+    - L3 - Instrukcje warunkowe
+        * bull - True / False == (czy są sobie równe - operator porównania)
+        * Różny != ; > , < , >= , <= ;
+        * if 5==5: [if True: / if False:]
+            print("Prawda")
+        * else x > y:
+        * else x == 10:
+        * elif:
+
+    - L3.Ćwiczenia
+        * Sklep - Jeśli pełnoletni, to może kupić energydrinki / alkohol i papierosy
+        * Ile musi poczekać
+
 """
-
-print("Hello campers")
