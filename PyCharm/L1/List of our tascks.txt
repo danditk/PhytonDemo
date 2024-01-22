@@ -18,6 +18,8 @@ Plan lekcji
         * Run plik działania liczbowe
         * Podpowiedzi interpretera [print()]
         * Działania na liczbach +-*/%
+
+        Tutaj jesteśmy
         * Print teksty i liczby *
 
     Przeniesiono na Lekcje 2:
@@ -31,7 +33,7 @@ Plan lekcji
         * Dzielenie konwersja do int //
         * Mnożenie i potęgowanie **
         * Przypisanie o wartość =+x ; += (inkrementacja i dekrementacja w innych programach)
-        * Konwersja typów - automatycznie int; float x = input("tekst" int() + int()) Suma bez konwersji - Konkatenacja
+        * Konwersja typów - automatycznie int; float x = input("tekst" int() + int()) Suma bez konwersji - Konkatenacja [5 + 5 = 55  //  5 + 5 = 10]
         * Konwersja na str()
         * CTRL + Shift
         * del
