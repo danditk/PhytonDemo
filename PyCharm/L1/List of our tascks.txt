@@ -22,8 +22,9 @@ Plan lekcji
 
     Przeniesiono na Lekcje 2:
         * Komentarze # ; '3x"'
+        * TODO
         * Zmienna 1 2 operator przypisania tekst print
-        * Pobieranie zmienną imput operator konkatenacji +
+        * Pobieranie zmienną imput() operator konkatenacji + " " +
     - L2 - Rozwinięcie
         * Kolejność działań + * ()
         * Typy zmienne - Float - zmiennoprzecinkowa
@@ -38,6 +39,7 @@ Plan lekcji
         *
 
     - L3 - Pierwsze taski
+        *
 """
 
 print("Hello campers")
