@@ -19,6 +19,8 @@ Plan lekcji
         * Podpowiedzi interpretera [print()]
         * Działania na liczbach +-*/%
         * Print teksty i liczby *
+
+    Przeniesiono na Lekcje 2:
         * Komentarze # ; '3x"'
         * Zmienna 1 2 operator przypisania tekst print
         * Pobieranie zmienną imput operator konkatenacji +
