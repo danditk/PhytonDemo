@@ -18,7 +18,6 @@ Plan lekcji
         * Run plik działania liczbowe
         * Podpowiedzi interpretera [print()]
         * Działania na liczbach +-*/%
-
         Tutaj jesteśmy
         * Print teksty i liczby *
 
@@ -32,15 +31,19 @@ Plan lekcji
         * Typy zmienne - Float - zmiennoprzecinkowa
         * Dzielenie konwersja do int //
         * Mnożenie i potęgowanie **
-        * Przypisanie o wartość =+x ; += (inkrementacja i dekrementacja w innych programach)
-        * Konwersja typów - automatycznie int; float x = input("tekst" int() + int()) Suma bez konwersji - Konkatenacja [5 + 5 = 55  //  5 + 5 = 10]
-        * Konwersja na str()
+        * Konwersja na str() i int()
         * CTRL + Shift
-        * del
 
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
     - L2.Ćwiczenia - Pierwsze taski
         * Napisz program, który pobierze od użytkownika jego imię, nazwisko i wiek oraz poproś go o podanie dwóch liczb.
           2 liczby będą obliczane, a dodatkowo na końcu będzie wyświetlone słowo dziękuję tyle razy ile wartość liczby 2.
+
+    - L2.Konwersja - Uzupełnienie zmiemmych i konwersje, skrócone zapisy
+        * Przypisanie o wartość =+x ; += (inkrementacja i dekrementacja w innych programach)
+        * Konwersja typów - automatycznie int; float x = input("tekst" int() + int()) Suma bez konwersji - Konkatenacja [5 + 5 = 55  //  5 + 5 = 10]
+        * del
 
         * budowanie konkatenacji sktóconej na stringach
           print(f'Cześć {zmienna_imie}!}
@@ -49,16 +52,44 @@ Plan lekcji
         * Zadanie dodatkowe, przerobienie pliku na sktóconą wersję
 
     - L3 - Instrukcje warunkowe
-        * bull - True / False == (czy są sobie równe - operator porównania)
+        * bull - True / False == (czy są sobie równe - operator porównania) 5 == 5 True != False
         * Różny != ; > , < , >= , <= ;
         * if 5==5: [if True: / if False:]
             print("Prawda")
+        print("Koniec")
+        vs
+            print("Koniec")
         * else x > y:
+        * else x <= y:
         * else x == 10:
         * elif:
 
     - L3.Ćwiczenia
-        * Sklep - Jeśli pełnoletni, to może kupić energydrinki / alkohol i papierosy
+        * Sklep - Jeśli pełnoletni, jakiej płci odczytując z imienia lub pobranie od użytkownika płci, to może kupić energydrinki / alkohol i papierosy
         * Ile musi poczekać
+        * Ile masz lat, jeśli więcej lub 18 to może jeśli nie to nie może i brakuje mu tylu lat do tego a tylu do zostania prezydentem
+        * Kategoria prawka B1 oraz zostać posłem 21, ławnik 30 lat.
+        * Uprawnienia do emetytury 60 lat kobieta, 65 lat mężczyzna
+        *
 
+    - L4 - Operatory logiczne
+        * if x > y:
+            if v == z:
+            print("vavv")
+        VS
+        AND, OR, NOT
+        * if x > y and v == z:
+            print("vavv")
+
+        * if not
+        * kolejność stopniowania operatorów OR vs AND
+            if True or False and False:
+                print("Prawda")
+            else:
+                print("Fausz")
+            VS
+            if (True or False) and False:
+                print("Prawda")
+            else:
+                print("Fausz")
 """
